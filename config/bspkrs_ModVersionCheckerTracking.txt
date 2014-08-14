@@ -1,0 +1,9 @@
+# Configuration file
+
+version_check_tracker {
+    S:ArmorStatusHUD=<html>
+    S:StartingInventory=<html>
+    S:bspkrsCore=<html>
+}
+
+
